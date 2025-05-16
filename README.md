@@ -49,6 +49,6 @@ Folder Structure:
         │ ├── PF.txt
         │ ├── RM.txt
         │ ├── SRC.txt
-        ├── docs/ # Documentation
-        │ └── IT.pdf # System architecture diagram
+        ├── IT.pdf # System architecture diagram
+        ├── Academic management system.pdf # documentation of project
         └── README.md
