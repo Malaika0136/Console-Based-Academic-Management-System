@@ -1,4 +1,4 @@
-#  Academic Console Manager
+#  Academic Management System
 
 A simple, console-based academic management system written in C++. Designed to help beginners understand basic file handling, data structures, and procedural programming logic. Ideal for students or educators looking for a lightweight, non-database solution to manage academic entities like students, teachers, and subjects.
 
@@ -35,7 +35,7 @@ You can view the architecture and workflow of the application in the PDF diagram
 
 Folder Structure:
    ```bash
-        Console-Based-Academic-Management-System/
+        academic-management-system/
         ├── main.cpp # Main application logic
         ├── data/ # Data files
         │ ├── student.csv
