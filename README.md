@@ -27,23 +27,23 @@ Students learning file handling and C++ basics, academic hobby projects, or educ
 
 ##  Folder Structure
     ```bash
-      Console-Based-Academic-Management-System/
-      ├── main.cpp # Main application logic
-      ├── data/ # Data files
-      │ ├── student.csv
-      │ ├── teacher.csv
-      │ ├── AI.txt
-      │ ├── AOA.txt
-      │ ├── DIP.txt
-      │ ├── DL.txt
-      │ ├── ITC.txt
-      │ ├── oop.txt
-      │ ├── PF.txt
-      │ ├── RM.txt
-      │ ├── SRC.txt
-      ├── docs/ # Documentation
-      │ └── IT.pdf # System architecture diagram
-      └── README.md
+        Console-Based-Academic-Management-System/
+        ├── main.cpp # Main application logic
+        ├── data/ # Data files
+        │ ├── student.csv
+        │ ├── teacher.csv
+        │ ├── AI.txt
+        │ ├── AOA.txt
+        │ ├── DIP.txt
+        │ ├── DL.txt
+        │ ├── ITC.txt
+        │ ├── oop.txt
+        │ ├── PF.txt
+        │ ├── RM.txt
+        │ ├── SRC.txt
+        ├── docs/ # Documentation
+        │ └── IT.pdf # System architecture diagram
+        └── README.md
 
 ## How to Use the Data Files
 - student.csv: Store and manage student information.
