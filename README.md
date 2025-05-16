@@ -30,7 +30,7 @@ Students learning file handling and C++ basics, academic hobby projects, or educ
 - Subject files like AI.txt, AOA.txt, etc. are used to represent different courses.
 - These files are all located in the data/ directory and are loaded or updated by the program during runtime.
   
-## Screenshot / Diagram
+## Diagram
 You can view the architecture and workflow of the application in the PDF diagram named as IT.
 
 Folder Structure:
