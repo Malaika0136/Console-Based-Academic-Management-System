@@ -24,28 +24,26 @@ This project simulates a basic academic data manager using plain text and CSV fi
  **Target Users**:  
 Students learning file handling and C++ basics, academic hobby projects, or educational demos.
 
----
 
-
-## 🗂️ Folder Structure
-
-your-project-name/
-├── main.cpp # Main application logic
-├── data/ # Data files
-│ ├── student.csv
-│ ├── teacher.csv
-│ ├── AI.txt
-│ ├── AOA.txt
-│ ├── DIP.txt
-│ ├── DL.txt
-│ ├── ITC.txt
-│ ├── oop.txt
-│ ├── PF.txt
-│ ├── RM.txt
-│ ├── SRC.txt
-├── docs/ # Documentation
-│ └── IT.pdf # System architecture diagram
-└── README.md
+##  Folder Structure
+    ```bash
+      Console-Based-Academic-Management-System/
+      ├── main.cpp # Main application logic
+      ├── data/ # Data files
+      │ ├── student.csv
+      │ ├── teacher.csv
+      │ ├── AI.txt
+      │ ├── AOA.txt
+      │ ├── DIP.txt
+      │ ├── DL.txt
+      │ ├── ITC.txt
+      │ ├── oop.txt
+      │ ├── PF.txt
+      │ ├── RM.txt
+      │ ├── SRC.txt
+      ├── docs/ # Documentation
+      │ └── IT.pdf # System architecture diagram
+      └── README.md
 
 ## How to Use the Data Files
 - student.csv: Store and manage student information.
